@@ -1,7 +1,4 @@
-var dummy = Runner.prototype.gameOver
-undefined
+var dummy = Runner.prototype.gameOver //(then press enter)
 Runner.prototype.gameOver = function(){
-}
-f(){
-}
-Runner.instance_.setSpeed(6000)//change speed limit
+}//(then press enter again)
+Runner.instance_.setSpeed(6000) //change speed limit, now you are a hacker winner
